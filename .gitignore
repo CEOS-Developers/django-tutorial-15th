@@ -131,3 +131,4 @@ dmypy.json
 .pyc
 .venv
 .idea
+mysite/mysite/my_settings.py
