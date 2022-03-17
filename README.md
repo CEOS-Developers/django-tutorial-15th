@@ -44,3 +44,15 @@ e.g ) `question__pub_date__year`, `choice_text__startswith`
 13. `app_name = 'polls'` => `polls:detail`
 
 
+      [4] Form & Generic Views System
+
+
+14. Generic View
+- URLconf 변환
+- 불필요한 오래된 보기 중 일부 삭제
+- Django의 generic view 사용
+
+15. `DetailView 제너릭 뷰`는 URL에서 캡쳐 된 기본 키 값이 `pk` 라고 기대
+
+
+
