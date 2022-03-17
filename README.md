@@ -19,8 +19,9 @@ CEOS 15th 백엔드 Django-tutorial
 5. `path()` : `path(route, view, kwargs, name)`
 6. path() argument: (required) route, view
 
-      
+   
       [2] Database Setting
+
 
 8. `TimeZone` : setting.py -> `TIME_ZONE ='Asia/Seoul'`, `USE_TZ = False`
 9. `python manage.py migrate` :  creates any necessary database tables
@@ -35,3 +36,11 @@ CEOS 15th 백엔드 Django-tutorial
 - `python manage.py migrate`
 12. [ DATABASE API ] : use double underscores to separate relationships.
 e.g ) `question__pub_date__year`, `choice_text__startswith`
+
+
+      [3] View & Templates
+
+
+13. `app_name = 'polls'` => `polls:detail`
+
+
