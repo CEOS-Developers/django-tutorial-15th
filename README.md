@@ -1,2 +1,2 @@
-# django-tutorial-15th
-CEOS 15th 백엔드 Django-tutorial
+<h3>2022.03.18 1st hw</h3>
+<p>part별로 commit하라는걸 까먹고 한번에 해버렸습니다. 죄송합니다.</p>
